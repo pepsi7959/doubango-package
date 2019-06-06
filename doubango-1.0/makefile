@@ -2,7 +2,7 @@ prefix = /usr/local
 LIBS = /lib/x86_64-linux-gnu
 LIBS_USR = /usr/lib/x86_64-linux-gnu
 LIBS_USRLOCAL = /usr/local/lib
-OPT = /opt/doubango/
+OPT = /opt/doubango
 all:
 	
 install:
@@ -10,6 +10,6 @@ install:
 	install libs/lib/x86_64-linux-gnu/* $(DESTDIR)$(LIBS)
 	install libs/usr/lib/x86_64-linux-gnu/* $(DESTDIR)$(LIBS_USR)
 	install libs/usr/local/lib/* $(DESTDIR)$(LIBS_USRLOCAL)
-	install config $(DESTDIR)$($OPT)
+	install conf/* $(DESTDIR)$(OPT)/conf
 clean:
 
