@@ -16,3 +16,17 @@ cd doubango-package
 make install
 
 ```
+
+## Install with debian package
+
+1. download [doubango-1.0](https://github.com/pepsi7959/doubango-package/releases)
+2. install doubango package 
+  ```bash
+  dpkg -i [doubango-package.deb]
+  ```
+  if you come accross the trouble, then use `--force-all` with dpkg -i
+  
+  ```bash
+  dpkg -i --force-all [doubango-package.deb]
+  ```
+  
