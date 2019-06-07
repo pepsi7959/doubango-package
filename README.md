@@ -30,3 +30,12 @@ make install
   dpkg -i --force-all [doubango-package.deb]
   ```
   
+## Start service
+
+> Note: \
+>     1. you must install certificate\
+>     2. Create your config. see defualt config on /opt/doubango/conf/config-with-ssl.xml
+
+```bash
+webrtc2sip --config=/opt/doubango/conf/config-with-ssl.xml
+```
