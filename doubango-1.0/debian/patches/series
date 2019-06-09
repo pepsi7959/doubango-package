@@ -1,0 +1,9 @@
+change-config-name
+change-config-folder
+fix-config-path-name
+change-makefile
+disable-libbsd0
+restore-makefile
+skiping-binary
+undo-skip-binary
+temporaly-ignore-usrlocal-libs

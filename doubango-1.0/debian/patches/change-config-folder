@@ -1,0 +1,32 @@
+Description: change folder name 
+ Change folder name.
+ .
+ doubango (1.0-1) UNRELEASED; urgency=medium
+ .
+   * Initial release. (Closes: #000000)
+Author: root <root@eb15a455f3b8>
+Bug-Debian: https://bugs.debian.org/000000
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: <vendor|upstream|other>, <url of original patch>
+Bug: <url in upstream bugtracker>
+Bug-Debian: https://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: <no|not-needed|url proving that it has been forwarded>
+Reviewed-By: <name and email of someone who approved the patch>
+Last-Update: 2019-06-06
+
+--- doubango-1.0.orig/makefile
++++ doubango-1.0/makefile
+@@ -10,6 +10,6 @@ install:
+ 	install libs/lib/x86_64-linux-gnu/* $(DESTDIR)$(LIBS)
+ 	install libs/usr/lib/x86_64-linux-gnu/* $(DESTDIR)$(LIBS_USR)
+ 	install libs/usr/local/lib/* $(DESTDIR)$(LIBS_USRLOCAL)
+-	install conf $(DESTDIR)$($OPT)
++	install conf/* $(DESTDIR)$($OPT)/conf
+ clean:
+ 
