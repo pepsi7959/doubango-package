@@ -1,0 +1,5 @@
+doubango (1.1-0) bionic; urgency=low
+
+  * remove an unnecessary via attribute
+
+ -- Narongsak Mala <naronsak.mala@gmail.com>  Sat, 13 Jun 2019 00:18:43 +0000
