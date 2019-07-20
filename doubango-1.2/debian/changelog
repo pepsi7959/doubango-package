@@ -1,0 +1,5 @@
+doubango (1.2-0) bionic; urgency=low
+
+  * set default rtp port range
+
+ -- Narongsak Mala <naronsak.mala@gmail.com>  Sat, 20 Jun 2019 07:00:17 +0000
