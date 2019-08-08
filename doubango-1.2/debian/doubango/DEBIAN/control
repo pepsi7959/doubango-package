@@ -1,8 +1,8 @@
 Package: doubango
-Version: 1.2-0
+Version: 1.2-1
 Architecture: amd64
 Maintainer: Narongsak Mala <naronsak.mala@gmail.com>
-Installed-Size: 80778
+Installed-Size: 80976
 Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.4), liblzma5 (>= 5.1.1alpha+20120614), libstdc++6 (>= 5.2), zlib1g (>= 1:1.2.3.3)
 Section: libs
 Priority: optional
