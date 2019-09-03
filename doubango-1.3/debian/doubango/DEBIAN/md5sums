@@ -35,7 +35,7 @@ f5c399ce63d3bfdab081b511aa132c41  usr/lib/x86_64-linux-gnu/libwebp.so.6
 724ac03acbf82b09cb490b03e1714f76  usr/lib/x86_64-linux-gnu/libxcb.so.1
 713e75fd6950e0e43f73ef1c32604d0f  usr/lib/x86_64-linux-gnu/libxml2.so.2
 d45c053a797fb64ab6dc977c4f93d89b  usr/lib/x86_64-linux-gnu/libxvidcore.so.4
-1d8881fc34ddc40b7a9b8f1e568a25fd  usr/local/bin/webrtc2sip
+ed7cf2ce6d5d44687e615385935a3e39  usr/local/bin/webrtc2sip
 4b5ed28c0a91cfed6d7f0b71e51db3b9  usr/local/lib/libavcodec.so.54
 e989511db008f30d5e778499a30f479a  usr/local/lib/libavcodec.so.57
 dd8af170290fcb040c3537c89c4d8976  usr/local/lib/libavutil.so.52
@@ -56,11 +56,11 @@ b3818f1e5c7ec2e06db02c8dd952d286  usr/local/lib/libtinyRTP.so.0
 5f010a9e45eafd145a305c1e79766524  usr/local/lib/libtinySAK.so.0
 71ce8434a444ef4749e972bd6b13c4a7  usr/local/lib/libtinySDP.so.0
 85cbcede526022a20fd4801afff653c5  usr/local/lib/libtinySIGCOMP.so.0
-889c9412de6ffacbb849a7016bb3590b  usr/local/lib/libtinySIP.so.0
+17f52d8996c7e4e8a959df7c3ba49dc4  usr/local/lib/libtinySIP.so.0
 ee99f570b8c493fa55c6ff2adc4a765d  usr/local/lib/libtinySMS.so.0
 470a733fec41b829da6d3279da3a10ef  usr/local/lib/libtinyWRAP.so.0
 ad982a8944676ddace92300e9de9621a  usr/local/lib/libtinyXCAP.so.0
 41229b90d954d5ba5e8ca2e065238753  usr/local/lib/libvpx.so.5
 a8fe93de732b039df8a24116436e68a0  usr/local/lib/libyuv.so
-610c7f1e4ea822a09e29b6309a7981a7  usr/share/doc/doubango/changelog.Debian.gz
+5593fd02a6dcfbf7f0e40e4f724593ab  usr/share/doc/doubango/changelog.Debian.gz
 d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/doubango/copyright
