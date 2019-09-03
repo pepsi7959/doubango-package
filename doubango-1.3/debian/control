@@ -2,11 +2,11 @@ Source: doubango
 Maintainer: Narongsak Mala <naronsak.mala@gmail.com>
 Section: libs
 Priority: optional
-Standards-Version: 1.3.0 
+Standards-Version: 1.3.1 
 Build-Depends: debhelper (>= 9)
 
 Package: doubango
 Architecture: any 
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: doubango version 1 
+Description: doubango version 1
  support basic codecs. 
