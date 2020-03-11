@@ -1,0 +1,13 @@
+Package: doubango-dbgsym
+Package-Type: ddeb
+Source: doubango
+Version: 1.4.0-beta
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Narongsak Mala <naronsak.mala@gmail.com>
+Installed-Size: 1325
+Depends: doubango (= 1.4.0-beta)
+Section: debug
+Priority: optional
+Description: debug symbols for doubango
+Build-Ids: fb7bc9c04bbfb5cf718ca8bbcfed15a2a10b7198
