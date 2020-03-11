@@ -1,0 +1,7 @@
+doubango (1.4.0-beta) bionic; urgency=low
+
+  * O&M feature
+  * update configuration
+  * separate system and app log  
+
+ -- Narongsak Mala <naronsak.mala@gmail.com>  Wed, 11 Mar 2020 18:00:00 +0000

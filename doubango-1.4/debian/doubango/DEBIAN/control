@@ -1,0 +1,10 @@
+Package: doubango
+Version: 1.4.0-beta
+Architecture: amd64
+Maintainer: Narongsak Mala <naronsak.mala@gmail.com>
+Installed-Size: 1281
+Depends: libc6 (>= 2.25), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Description: doubango version 1
+ support basic codecs.
