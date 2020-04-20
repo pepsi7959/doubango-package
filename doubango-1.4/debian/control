@@ -8,5 +8,5 @@ Build-Depends: debhelper (>= 9)
 Package: doubango
 Architecture: any 
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: doubango version 1
- support basic codecs. 
+Description: doubango version 1.4
+ support basic codecs and O&M. 
