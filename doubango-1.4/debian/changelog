@@ -1,7 +1,9 @@
-doubango (1.4.0-beta) bionic; urgency=low
+doubango (1.4.0) bionic; urgency=low
 
   * O&M feature
   * update configuration
   * separate system and app log  
+  * add stat
+  * grouping stat
 
- -- Narongsak Mala <naronsak.mala@gmail.com>  Wed, 11 Mar 2020 18:00:00 +0000
+ -- Narongsak Mala <naronsak.mala@gmail.com>  Mon, 20 May 2020 18:00:00 +0000
